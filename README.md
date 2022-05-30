@@ -6,7 +6,7 @@
 
 ## Deployment
 
-Demo: https://.github.io/dicegame/
+Play the simple game here --> Demo: [DiceGame Website](https://rahuls1428.github.io/Dice-Game/)
 
 ![dice-game](./images/initialPage.png)
 ![dice-game](./images/playablePage.png)
